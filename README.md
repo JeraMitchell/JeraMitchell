@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+  - <b>Virtual Private Networks (VPNs)
+    - [VPN: Setup and Usage](https://github.com/jeramitchell/vpn-setup)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jeramitchell/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jeramitchell/post-install-config)
